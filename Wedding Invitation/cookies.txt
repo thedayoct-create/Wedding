@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+thegoodday.kr	TRUE	/	FALSE	1999999999	thegoodday_session	a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%2259e5fe42435a46bc4e8a46999b3bfc39%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A15%3A%22122.153.207.135%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22Mozilla%2F4.5+%28compatible%3B+HTTrack+3.0x%3B+Windows+98%29%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1777133632%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D10be87aed3a9aa67543d4c2fb854d94e6d08cc50
+

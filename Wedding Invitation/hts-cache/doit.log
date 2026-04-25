@@ -1,0 +1,8 @@
+-qwr3%e1C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://thegoodday.kr/card/2ea8147c08 -O1 "C:\Users\Gia again TT\Downloads\Wedding Invitation" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +thegoodday.kr/* +*.mp3 +*.mp4 +*.woff +*.woff2 +*.ttf +*.svg +*.webp
+File generated automatically on Sun, 26 Apr 2026 01:13:52, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

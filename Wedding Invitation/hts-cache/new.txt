@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+01:13:52	3124/3124	---MCZ	200	added ('OK')	text/html	date:Sat,%2025%20Apr%202026%2016:13:52%20GMT	https://thegoodday.kr/card/2ea8147c08	C:/Users/Gia%20again%20TT/Downloads/Wedding%20Invitation/thegoodday.kr/card/2ea8147c08.html	(from )
+01:13:52	106/106	---M--	200	added ('OK')	text/plain	etag:%226a-63c9c54e83006%22	https://thegoodday.kr/robots.txt		(from )
